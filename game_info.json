@@ -1,0 +1,18 @@
+{
+    "Name": "Grand Theft Auto V",
+    "Publisher": "Rockstar Games",
+    "Genre": "Open-World Action",
+    "Rating": "Rated M",
+    "Release Date": "Nov 18, 2014",
+    "Platforms": {
+        "Platform1": "PlayStation 3",
+        "Platform2": "Xbox 360",
+        "Platform3": "PlayStation 4",
+        "Platform4": "Xbox One",
+        "Platform5": "PC",
+        "Platform6": "PlayStation 5",
+        "Platform7": "Xbox Series X"
+    },
+    "Metascore": "97",
+    "Userscore": "8.4"
+}
